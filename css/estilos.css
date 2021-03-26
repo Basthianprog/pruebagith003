@@ -1,0 +1,28 @@
+body{
+    background-color: #3cb371;
+}
+h1{
+    color: #8b4513;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 600%;
+}
+h2{
+    color: #00008b;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color: #a52a2a;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+    color: #00008b;
+}
+
+
+img{
+    display: block;
+    margin: auto ;
+}
